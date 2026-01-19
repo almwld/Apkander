@@ -1,0 +1,49 @@
+# Build files
+*.apk
+*.ap_
+*.aab
+
+# Gradle files
+.gradle/
+build/
+app/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local configuration file
+local.properties
+
+# Log files
+*.log
+
+# Android Studio files
+*.iml
+.idea/
+.cache/
+.DS_Store
+
+# Generated files
+bin/
+gen/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Firebase
+google-services.json
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Temp files
+*.tmp
+*.temp
+
+# Android specific
+captures/
+.externalNativeBuild/
+.cxx/
+*.keystore
