@@ -51,4 +51,4 @@ workflows:
           $DISCORD_WEBHOOK
 
     artifacts:
-      - build/app/outputs/flutter-apk/*.apk
+      - build/app/outputs/flutter-apk/*.apk 
